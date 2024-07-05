@@ -1,5 +1,5 @@
 <h1 align="center">Hugo Zamith</h1>
-<h3 align="center">Softwarte developer form Portugal</h3>
+<h3 align="center">Softwarte developer from Portugal</h3>
 
 - 🌱 I’m currently learning **programming at 42 Porto.**
 
